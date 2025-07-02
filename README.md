@@ -14,8 +14,6 @@ The website is designed to be clean, modern, and highly responsive, providing an
 
 * **Interactive Contact Form:** A fully functional contact form powered by [Formsubmit.co](https://formsubmit.co/) to allow visitors to easily get in touch.
 
-    * **Note:** After deploying, the first submission to the form will trigger an activation email from Formsubmit.co to the email address specified in the form's `action` attribute. **You must click the activation link in that email for subsequent submissions to be delivered.**
-
 * **Animate On Scroll (AOS):** Smooth and subtle animations for sections and elements as they come into view, enhancing the user experience.
 
 * **"What I Do" Section:** Clearly outlines key service areas (Frontend, Backend, UI/UX, DevOps).
