@@ -4,7 +4,7 @@ Welcome to the GitHub repository for my personal portfolio website! This reposit
 
 The website is designed to be clean, modern, and highly responsive, providing an engaging user experience across all devices.
 
-## ✨ Features
+## Features
 
 * **Clean & Modern UI:** A minimalist, dark-themed design with a focus on readability and professional aesthetics.
 
